@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HexApp",
+    "slug": "HexApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HexApp"
+}
